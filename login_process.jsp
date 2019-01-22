@@ -12,4 +12,4 @@
 
 <c:if test="${param.username != 'abcabc' || param.userpass != '123123' }">
 		<jsp:forward page="login_failure.jsp"/>
-</c:if>
+</c:if>   
