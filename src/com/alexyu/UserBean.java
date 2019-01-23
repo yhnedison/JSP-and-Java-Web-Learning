@@ -3,7 +3,6 @@ package com.alexyu;
 public class UserBean {
 	private String username;
 	private String userpass;
-	private int result;
 	
 	public String getUsername() {
 		return username;
